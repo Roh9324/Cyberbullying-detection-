@@ -17,8 +17,8 @@ This project is a simple yet effective machine learning-based system designed to
 - **ML Model:** Logistic Regression / Naive Bayes (or your choice)
 - **Database:** SQLite
 
-To nstall Dependencies type:
+## To install Dependencies type:
 pip install -r requirements.txt in cmd
 
-To run the project type: 
+## To run the project type: 
 python appp.py in cmd
